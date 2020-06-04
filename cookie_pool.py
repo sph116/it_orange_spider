@@ -4,8 +4,8 @@ import json
 import time
 
 id_datas = [
-    ("16217341143", "147258"),
-    ("16534145166", "147258"),
+    ("it橘子账号", "it橘子账号密码"),
+    ("it橘子账号", "it橘子账号密码"),
 ]
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",
